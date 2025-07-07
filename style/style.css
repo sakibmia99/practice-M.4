@@ -28,11 +28,16 @@ nav ul li a {
     border-radius: 15px;
 }
 
+
 .banner-section button {
     background-color: aqua;
     padding: 8px 15px;
     border-radius: 6px;
     cursor: pointer;
+}
+.card-section{
+    text-align: center;
+    margin-top: 50px;
 }
 
 .card-contenar {
@@ -41,6 +46,7 @@ nav ul li a {
     gap: 30px;
     flex-wrap: wrap;
     margin-top: 50px;
+    text-align: left;
 }
 
 .cards {
